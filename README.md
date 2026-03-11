@@ -12,7 +12,7 @@ ChatExporter-GUI 是一款专为 Windows PC 端设计的聊天记录导出与备
 
 🎨 现代化 GUI 界面: 告别黑框框！可视化勾选您想导出的联系人，独家支持按会话粒度控制媒体导出（例如：A群只导文字，B好友导出所有图文视频）。
 
-📑 完美解析“合并转发”: 独家实现合并转发聊天记录的无限嵌套解析！不仅能以折叠面板（<details>）完美还原交互，还能提取转发记录内的图片和视频。
+📑 完美解析“合并转发”: 独家实现合并转发聊天记录的无限嵌套解析！不仅能以折叠面板完美还原交互，还能提取转发记录内的图片和视频。
 
 🎵 语音秒转 MP3: 内置集成 pilk 与 ffmpeg，将聊天软件难搞的加密 .silk 语音自动转码为 .mp3，并在网页中直接提供 HTML5 <audio> 播放器（带时长显示）。
 
@@ -64,7 +64,7 @@ ChatExporter-GUI is a powerful Windows desktop application designed to archive a
 
 🎨 Modern GUI User Interface: Say goodbye to the command line. Visually select which contacts to export. Unique Feature: Granular control over media export per chat (e.g., text-only for group A, full media for friend B).
 
-📑 Perfect Nested Forwarding parsing: Uniquely handles *Chat's complex "Merged and Forwarded chat history" format. Supports infinite nesting with foldable UI (<details>) and restores images/videos within forwarded messages!
+📑 Perfect Nested Forwarding parsing: Uniquely handles *Chat's complex "Merged and Forwarded chat history" format. Supports infinite nesting with foldable UI and restores images/videos within forwarded messages!
 
 🎵 Auto SILK to MP3: Seamlessly integrates pilk and ffmpeg to automatically convert *Chat's encrypted .silk audio files into standard .mp3. Play audio directly in the exported HTML!
 
